@@ -15,6 +15,7 @@ k1 = Sphere(Vektor(-100,1000,100),200000000000000, (0, 255, 0))
 k2 = Sphere(Vektor(100,1000,100),200000000000000, (0, 0, 255))
 
 objectlist = [k2] #dreiKugeln, eine Ebene, ein Dreieck
+
 wRes = 100
 hRes = 100
 #Lichtquelle
